@@ -62,7 +62,7 @@ if [ -f "$local_source_dir/pom.xml" ]; then
     cp -r modules/* /wildfly/provided_modules
   fi
 
-  echo "...done"
+  echo "...done...sticks"
 
   popd &> /dev/null
 else
